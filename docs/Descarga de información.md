@@ -10,4 +10,4 @@ Para esto puede posicionarse en la esquina superior derecha, donde aparecerá el
 
 En caso sea una tabla, podrás descargarla como imagen, ya sea en formato pdf, csv, o incluso en Excel (xlsx).
 
-![img](descargatabla.png)
+![img](descargatabla.png)  
