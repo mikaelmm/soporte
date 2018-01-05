@@ -2,6 +2,8 @@
 
 Algunas soluciones aquí mostradas
 
+Outline <a name="outline"> </a>
+
 * [Descarga de información](#dwnld_info)
 * [Soporte vía chat](#soprt_chat)
 
@@ -23,9 +25,13 @@ En caso sea una tabla, podrás descargarla como imagen, ya sea en formato pdf, c
 
 ![img](./imagenes/descargatabla.png)  
 
+[volver al outline](#outline)
+
 ***
 
-# Soporte vía Chat <a name="soprt_chat"></a>
+# 
+
+## Soporte vía Chat <a name="soprt_chat"></a>
 
 Al ingresar a la Plataforma tendrás disponible el soporte en tiempo realpor medio de una ventana de chat. Para acceder a ella, ubica el ícono en laesquina inferior derecha de tu pantalla, y presiónalo.
 
@@ -35,4 +41,55 @@ Al presionar el botón, se extenderá una ventana donde podrás comunicartecon u
 
  
 
-Nota: El horario de atención está sujeto al horariolaboral, de 08:00 a 18:00, entre semana y susceptible a asuetos locales. En caso norecibas respuesta, uno de nuestros encargados se comunicará contigo vía correoo chat.
+Nota: El horario de atención está sujeto al horariolaboral, de 08:00 a 18:00, entre semana y susceptible a asuetos locales. En caso norecibas respuesta, uno de nuestros encargados se comunicará contigo vía correo o chat.
+
+[volver al outline](#outline)
+
+***
+
+## Filtros
+
+
+
+### Ocultar y mostrar filtros generales
+
+
+
+### Filtros Default
+
+
+
+
+
+[volver al outline](#outline)
+
+***
+
+## Alternar entre dimensiones de medida (Switch-to) <a name="switch_to">  </a>
+
+En algunas gráficas existe la opción de alternar entre dimensiones de medida. Por ejemplo, el siguiente gráfico de Ranking de Categorías según la venta puede mostrarse por medio de Departamento en lugar de Categorías. Esto es posible haciendo click derecho donde tendrás distintas opciones de dimensiones de medida. 
+
+![img](./imagenes/switch2.png)
+
+Nota: Esta opción está disponible para gráficos seleccionados.
+
+[volver al outline](#outline)
+
+***
+
+## Desglose de información (Drill-down) <a name="drill_down"> </a>
+
+El desglose, o drill-down, permite la exploración dinámica de información. Esta característica puede utilizarse en tablas y gráficas donde se haya definido de fábrica. Puedes hacer esto haciendo *click* derecho sobre la categoría de interés y escoger el tipo y nivel de desglose en Drill (donde esté disponible)
+
+![img](./imagenes/drill1.png)
+
+En el ejemplo, se escoge el desglose a nivel de Región obteniendo
+
+![img](./imagenes/drill2.png)
+
+
+
+[volver al outline](#outline)
+
+***
+
