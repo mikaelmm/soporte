@@ -6,6 +6,9 @@ Outline <a name="outline"> </a>
 
 * [Descarga de información](#dwnld_info)
 * [Soporte vía chat](#soprt_chat)
+* [Filtros](#filter)
+* [Alternar entre dimensiones de medida (Switch-to)](#switch_to)
+* [Desglose de información](#drill_down)
 
 
 
@@ -47,7 +50,7 @@ Nota: El horario de atención está sujeto al horariolaboral, de 08:00 a 18:00, 
 
 ***
 
-## Filtros
+## Filtros <a name="filter"></a>
 
 
 
