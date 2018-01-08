@@ -54,9 +54,20 @@ Nota: El horario de atención está sujeto al horariolaboral, de 08:00 a 18:00, 
 
 ### Ocultar y mostrar filtros generales
 
+Para una mejor visualización en tu pantalla o durante una presentación, tienes la opción de esconder los filtros generales mientras no necesites hacerle cambios. Para esto, ubica la pestaña en gris oscuro como se ve en la figura. Los filtros generales tomarán un color ligeramente más oscuro, y la pestaña se hará más visible. Presiónala y los filtros se ocultarán. Para revertir el efecto, presiona en la misma pestaña.
+
+![img](./imagenes/filtro_ocultar.png)
+
 
 
 ### Filtros Default
+
+Actualmente los filtros tienen una configuración predeterminada, pero como usuario puedes personalizarla. Esto puede realizarse
+cambiando los *default filters* que, una vez los haya modificado los filtros generales a tu gusto, puedes establecerlos como predeterminados en la parte superior como se ve en la imagen. Esto te permitirá hacer cambios en los filtros, y restaurarlos a tu configuración favorita presionando el botón circular de restauración. Toma nota que los *dashboards* mantendrán la configuración tal como la hayas dejado en la última vez de utilización.
+
+
+
+![img](./imagenes/filtro_default.png)
 
 
 
