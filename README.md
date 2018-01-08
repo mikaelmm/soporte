@@ -32,8 +32,6 @@ En caso sea una tabla, podrás descargarla como imagen, ya sea en formato pdf, c
 
 ***
 
-# 
-
 ## Soporte vía Chat <a name="soprt_chat"></a>
 
 Al ingresar a la Plataforma tendrás disponible el soporte en tiempo realpor medio de una ventana de chat. Para acceder a ella, ubica el ícono en laesquina inferior derecha de tu pantalla, y presiónalo.
