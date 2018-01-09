@@ -2,7 +2,9 @@
 
 Algunas soluciones aquí mostradas
 
-Outline <a name="outline"> </a>
+<a name="outline"> </a>
+
+Outline 
 
 * [Descarga de información](#dwnld_info)
 * [Soporte vía chat](#soprt_chat)
@@ -13,8 +15,9 @@ Outline <a name="outline"> </a>
 
 
 
+<a name="dwnld_info"></a>
 
-## Descarga de información <a name="dwnld_info"></a>
+## Descarga de información 
 
 A veces deseas hacer un análisis específico utilizando la informaciónque estas visualizando, o utilizar las imágenes de gráficos o de las tablas. Afortunadamente existe la opción de descargar la información de los elementos en distintas modalidades,ya sea como imagen (formato png), o archivo en formato csv, pdf, o xlsx segúnel tipo  de *widget*.
 
@@ -32,7 +35,9 @@ En caso sea una tabla, podrás descargarla como imagen, ya sea en formato pdf, c
 
 ***
 
-## Soporte vía Chat <a name="soprt_chat"></a>
+<a name="soprt_chat"></a>
+
+## Soporte vía Chat 
 
 Al ingresar a la Plataforma tendrás disponible el soporte en tiempo realpor medio de una ventana de chat. Para acceder a ella, ubica el ícono en laesquina inferior derecha de tu pantalla, y presiónalo.
 
@@ -48,7 +53,9 @@ Nota: El horario de atención está sujeto al horariolaboral, de 08:00 a 18:00, 
 
 ***
 
-## Filtros <a name="filter"></a>
+<a name="filter"></a>
+
+## Filtros 
 
 
 
@@ -77,7 +84,9 @@ cambiando los *default filters* que, una vez los haya modificado los filtros gen
 
 ***
 
-## Alternar entre dimensiones de medida (Switch-to) <a name="switch_to">  </a>
+<a name="switch_to">  </a>
+
+## Alternar entre dimensiones de medida (Switch-to) 
 
 En algunas gráficas existe la opción de alternar entre dimensiones de medida. Por ejemplo, el siguiente gráfico de Ranking de Categorías según la venta puede mostrarse por medio de Departamento en lugar de Categorías. Esto es posible haciendo click derecho donde tendrás distintas opciones de dimensiones de medida. 
 
@@ -89,7 +98,9 @@ Nota: Esta opción está disponible para gráficos seleccionados.
 
 ***
 
-## Desglose de información (Drill-down) <a name="drill_down"> </a>
+<a name="drill_down"> </a>
+
+## Desglose de información (Drill-down) 
 
 El desglose, o drill-down, permite la exploración dinámica de información. Esta característica puede utilizarse en tablas y gráficas donde se haya definido de fábrica. Puedes hacer esto haciendo *click* derecho sobre la categoría de interés y escoger el tipo y nivel de desglose en Drill (donde esté disponible)
 
